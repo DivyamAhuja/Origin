@@ -1,5 +1,4 @@
 # Origin
----
 
 A game in progress
 
